@@ -1,18 +1,20 @@
 # Hi, I'm Kieran 👋
 
-Data Analyst progressing toward Data Science with a focus on machine learning, predictive modelling, and business intelligence.
+Portfolio of applied machine learning and data analytics projects developed during my MSc and independent study.
 
-I build real-world data projects that transform raw data into actionable insights and decision-support tools.
+I am an MSc Data Science and Analytics student building applied machine learning and data analytics solutions for real-world decision making.
+
+My work focuses on transforming raw data into actionable insights, predictive models, and decision-support tools using statistical analysis, business intelligence, and reproducible analytical workflows.
 
 ---
 
 ## 🔬 Featured Projects
 
 📊 Loan Approval Risk & Loan Limit Prediction  
-Machine learning models predicting loan approval risk and maximum loan amount using classification and regression techniques.
+Machine learning models predicting loan approval risk and maximum loan amount using classification and regression techniques to support lending decision-making.
 
 📈 Sustainable Development Goals Dashboard (Power BI)  
-Interactive analytics dashboard exploring education, unemployment, and economic growth across South America (2013–2023).
+Interactive analytics dashboard exploring education, unemployment, and economic growth trends across South America (2013–2023) to support data-driven policy insights.
 
 ---
 
@@ -26,17 +28,17 @@ Machine Learning • Data Visualisation • Statistical Analysis
 
 ## 🎓 Education
 
-MSc Data Science & Analytics (Starting 2025)  
+MSc Data Science & Analytics (Expected September 2026)  
 BSc Financial & Business Economics — First Class Honours
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Focus
 
-Transitioning into a Data Science role focused on predictive modelling and data-driven decision making.
+Seeking graduate opportunities in Data Science or Data Analytics where I can apply machine learning and analytical techniques to real-world business problems.
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/kieranrossetti/]
+LinkedIn: https://www.linkedin.com/in/kieranrossetti/
