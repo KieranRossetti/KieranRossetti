@@ -10,15 +10,20 @@ My work focuses on transforming raw data into actionable insights, predictive mo
 
 ## 🔬 Featured Projects
 
-📊 Loan Approval Risk & Loan Limit Prediction  
+📊 Loan Approval Risk & Loan Limit Prediction
 Machine learning models predicting loan approval risk and maximum loan amount using classification and regression techniques to support lending decision-making.
 
 View Project Repository: https://github.com/KieranRossetti/Loan-Approval-Risk
 
-📈 Sustainable Development Goals Dashboard (Power BI)  
+📈 Sustainable Development Goals Dashboard (Power BI)
 Interactive analytics dashboard exploring education, unemployment, and economic growth trends across South America (2013–2023) to support data-driven policy insights.
 
 View Project Repository: https://github.com/KieranRossetti/sdg-dashboard-powerbi
+
+📉 Stock Risk Clustering Analysis
+Machine learning clustering analysis of S&P 500 stocks using K-means and hierarchical clustering to identify risk profiles and support portfolio diversification decisions.
+
+View Project Repository: https://github.com/KieranRossetti/Stock-Risk-Clustering-Analysis
 
 ---
 
